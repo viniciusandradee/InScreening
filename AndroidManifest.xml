@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.locations">
+<application>
+...
+<meta-data
+android:name="com.google.android.geo.API_KEY"
+android:value="AIzaSyDBK0zrHYKJ98s_Jb5gv7x1AJNEwxBQrP0"/>
+</application>
+</manifest>
